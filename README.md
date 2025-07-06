@@ -31,7 +31,7 @@
 ## 📦 Install Dependencies
 
 ```bash
-pip install -U discord.py colorama
+pip install -r requirements.txt
 ````
 
 ---
