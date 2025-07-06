@@ -2,7 +2,7 @@
 
 **Slot Bot** is a fully-featured **Discord bot** for managing premium slots within a community or server. Built with Python and `discord.py`, it automates slot creation, renewals, pings, role assignment, and more. Created and maintained by **zle0o**.
 
-> 🛡️ **Warning**: This bot interacts with server roles, channels, and permissions. Use it only with proper understanding and access rights.
+> 🛡️ **Warning**: This bot interacts with server roles, channels, and permissions. Use it only with proper understanding.
 
 ---
 
