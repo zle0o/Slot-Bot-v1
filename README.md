@@ -95,9 +95,16 @@ The bot checks every hour and removes access to expired slots based on their sto
 
 ---
 
-## 📜 License
+## 📜 License  
 
-MIT License – Free to use and modify.
+MIT License – Free to use and modify.  
+
+---
+
+## 🔗 Community
+
+Join the community Discord server here:  
+👉 [https://discord.gg/qNemf7Uqum](https://discord.gg/qNemf7Uqum)
 
 ---
 
@@ -105,4 +112,6 @@ MIT License – Free to use and modify.
 
 Made with ❤️ by **zle0o**
 
-Join the Discord Server: [Community Discord Server](https://discord.gg/qNemf7Uqum)
+---
+
+Like this Slot Bot? Leave a ⭐ on GitHub!
