@@ -40,8 +40,7 @@ pip install -U discord.py colorama
 
 1. Clone or download this repository.
 2. Replace `YOUR_BOT_TOKEN` in the `bot.run()` function with your bot token.
-3. Create the following files in the same directory:
-
+3. Just edit the config.json, the other files are for counting:
    * `config.json`:
 
      ```json
